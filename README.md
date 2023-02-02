@@ -1,7 +1,6 @@
 # Proyecto-EDA_F1
-Hola
 
-Para continuar con los proyectos del Bootcamp DATA SCIENCE, realice mi primer análisis de datos y visualización, utilizando los nuevos conocimientos en:
+Para continuar con los proyectos del Bootcamp DATA SCIENCE, realice mi primer Exploratory Data Analysis (EDA), utilizando los nuevos conocimientos en:
 *PYTHON/Pandas
 *Libreria Seaborn, Matplotlib, para la visualización.
 
